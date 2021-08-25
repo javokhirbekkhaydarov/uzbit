@@ -250,14 +250,14 @@ ul li a:hover {
   text-decoration: none;
   transition: all 0.5s ease;
  
-  /* border: 3px solid  background:linear-gradient(35deg, #880c7e, #6c0885, #372d94);; */
+  border: 3px solid #880c7e;
 }
 
 .home .home-content a:hover {
   border: 3px solid #fff;
   color: #fff;
   background: none;
-  padding: 10px 34px;
+  /* padding: 10px 34px; */
  
 }
 
